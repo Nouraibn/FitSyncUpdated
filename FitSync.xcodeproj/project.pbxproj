@@ -14,6 +14,7 @@
 		2CF9D1592CB2B02F00497C75 /* AddTaskScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1582CB2B02F00497C75 /* AddTaskScreen.swift */; };
 		2CF9D15D2CB2B04700497C75 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D15C2CB2B04700497C75 /* SplashScreen.swift */; };
 		2CF9D1612CB2B56300497C75 /* SportScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF9D1602CB2B56300497C75 /* SportScreen.swift */; };
+		DBD2B0CC2CB2B89400259964 /* RecommendationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD2B0CB2CB2B89400259964 /* RecommendationScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		2CF9D1582CB2B02F00497C75 /* AddTaskScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskScreen.swift; sourceTree = "<group>"; };
 		2CF9D15C2CB2B04700497C75 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		2CF9D1602CB2B56300497C75 /* SportScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportScreen.swift; sourceTree = "<group>"; };
+		DBD2B0CB2CB2B89400259964 /* RecommendationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				2CF9D14A2CB2B01700497C75 /* FitSyncApp.swift */,
 				2CF9D14C2CB2B01700497C75 /* ContentView.swift */,
+				DBD2B0CB2CB2B89400259964 /* RecommendationScreen.swift */,
 				2CF9D1582CB2B02F00497C75 /* AddTaskScreen.swift */,
 				2CF9D15C2CB2B04700497C75 /* SplashScreen.swift */,
 				2CF9D1602CB2B56300497C75 /* SportScreen.swift */,
@@ -148,6 +151,7 @@
 			files = (
 				2CF9D15D2CB2B04700497C75 /* SplashScreen.swift in Sources */,
 				2CF9D1592CB2B02F00497C75 /* AddTaskScreen.swift in Sources */,
+				DBD2B0CC2CB2B89400259964 /* RecommendationScreen.swift in Sources */,
 				2CF9D1612CB2B56300497C75 /* SportScreen.swift in Sources */,
 				2CF9D14D2CB2B01700497C75 /* ContentView.swift in Sources */,
 				2CF9D14B2CB2B01700497C75 /* FitSyncApp.swift in Sources */,
